@@ -1,0 +1,15 @@
+.container {
+  width: 100%;
+  height: auto;
+  min-height: 80vh;
+  max-width: 500px;
+  min-width: 400px;
+  background-color: #e6e6e6;
+background-image: url("https://www.transparenttextures.com/patterns/batthern.png");
+  background-size: 25px 25px;
+  border-radius: 20px;
+  box-shadow: 4px 3px 7px 2px #00000040;
+  padding: 1rem;
+  box-sizing: border-box;
+}
+
